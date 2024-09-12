@@ -1,4 +1,4 @@
-# AutoRestartServer for EXILED
+# AutoServerRestart for EXILED
 
 ![downloads](https://img.shields.io/github/downloads/Vretu-Dev/AutoSR/total)
 
