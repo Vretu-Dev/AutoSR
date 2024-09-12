@@ -17,7 +17,7 @@ AutoSR:
   debug: false
   # Time after server will be restarted in seconds
   seconds_until_restart: 1800
-  # Command to be executed eg: 'sofrestart','restart','roundrestart'.
+  # Command to be executed eg: 'softrestart','restart','roundrestart'.
   command: 'softrestart'
   # Broadcast to be displayed.
   broadcast_message: 'Server will be restarted within 30 seconds'
