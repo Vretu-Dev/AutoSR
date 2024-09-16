@@ -9,7 +9,7 @@ namespace AutoSR
         public override string Name => "AutoSR";
         public override string Author => "Vretu";
         public override string Prefix { get; } = "AutoSR";
-        public override Version Version => new Version(1, 0, 0);
+        public override Version Version => new Version(1, 0, 1);
         public override Version RequiredExiledVersion { get; } = new Version(8, 9, 8);
 
         private Timer restartTimer;
